@@ -1,5 +1,6 @@
-
-# Software Engineering
+---
+title: "Software Engineering"
+---
 
 TL;DR: The goal of this project is to turn AI research into tools that help engineers build and improve software.
 
